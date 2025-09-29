@@ -47,7 +47,7 @@ Isso implica que não existe um algoritmo conhecido que possa resolvê-lo em tem
 
 ## 🚀 Começando
 
-Siga estas instruções para obter uma cópia do projeto e executá-lo em sua máquina local.
+Siga estas instruções para obter uma cópia do projeto e executá-lo em sua máquina local. 
 
 ### ✅ Pré-requisitos
 
@@ -135,10 +135,10 @@ Este processo garante que todo o espaço de busca de soluções seja explorado d
 
 ## 👥 Equipe
 
-| Nome Completo        |
-| -------------------- |
-| [Nome do Aluno 1]    |
-| [Nome do Aluno 2]    |
-| [Nome do Aluno 3]    |
+| Integrantes                         |
+| ----------------------------------- |
+| Almeida Ítalo Mattos Santos         |
+| Marcos Vinícius de Santana Santos   |
+| Victor Caetano Menezes              |
 
 ---
