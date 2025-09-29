@@ -1,4 +1,3 @@
-# hamiltonian_solver.py
 
 class HamiltonianCircuitSolver:
     """
@@ -26,10 +25,9 @@ class HamiltonianCircuitSolver:
         return True
 
     def solve_util(self, pos):
-        """
-        Função recursiva principal que utiliza backtracking para encontrar o circuito.
-        """
+        """ Função recursiva principal que utiliza backtracking para encontrar o circuito. """
         # 1. CASO BASE: Se todos os vértices foram incluídos no caminho.
+        
         if pos == self.num_vertices:
             # Verifica se o último vértice do caminho se conecta ao primeiro (fecha o ciclo).
             if self.graph[self.path[pos - 1]][self.path[0]] == 1:
@@ -54,10 +52,9 @@ class HamiltonianCircuitSolver:
         return False
 
     def find_circuit(self):
-        """
-        Função principal que inicializa e dispara o processo de busca.
-        """
+        """ Função principal que inicializa e dispara o processo de busca. """
         # Começa a busca pelo vértice 0 como o primeiro do caminho.
+
         self.path[0] = 0
         self.visited[0] = True
 
@@ -68,9 +65,8 @@ class HamiltonianCircuitSolver:
         self.print_solution()
 
     def print_solution(self):
-        """
-        Imprime o circuito Hamiltoniano encontrado.
-        """
+
+        """ Realiza a impressão do circuito Hamiltoniano encontrado. """
         print("Solução encontrada!")
         circuit = self.path + [self.path[0]]
         print(f"Circuito Hamiltoniano: {circuit}")
