@@ -64,7 +64,7 @@ O único requisito para executar este projeto é ter o **Python 3** instalado.
 1.  Clone o repositório para a sua máquina local usando o comando abaixo.
     *(Lembre-se de substituir pela URL do seu repositório no GitHub/GitLab)*.
     ```sh
-    git clone [https://github.com/seu-usuario/projeto-hamiltoniano.git](https://github.com/seu-usuario/projeto-hamiltoniano.git)
+    git clone https://github.com/viniciuswt/Seminario-PAA.git
     ```
 2.  Navegue até a pasta do projeto.
     ```sh
