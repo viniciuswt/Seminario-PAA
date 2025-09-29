@@ -62,13 +62,13 @@ O único requisito para executar este projeto é ter o **Python 3** instalado.
 ### 💻 Instalação
 
 1.  Clone o repositório para a sua máquina local usando o comando abaixo.
-    *(Lembre-se de substituir pela URL do seu repositório no GitHub/GitLab)*.
+
     ```sh
     git clone https://github.com/viniciuswt/Seminario-PAA.git
     ```
 2.  Navegue até a pasta do projeto.
     ```sh
-    cd projeto-hamiltoniano
+    cd Seminario-PAA
     ```
 
 ---
@@ -78,7 +78,7 @@ O único requisito para executar este projeto é ter o **Python 3** instalado.
 Para executar o programa com o grafo de exemplo fornecido no código, basta rodar o seguinte comando no seu terminal:
 
 ```sh
-python3 hamiltonian_solver.py
+python3 circuito.py
 ```
 
 A saída esperada para o grafo padrão será:
@@ -94,13 +94,13 @@ Caminho: A -> B -> C -> E -> D -> A
 
 ## 🧪 Como Testar
 
-O algoritmo foi projetado para ser testado com diferentes configurações. Você pode editar o arquivo `hamiltonian_solver.py` para analisar outros cenários.
+O algoritmo foi projetado para ser testado com diferentes configurações. Você pode editar o arquivo `circuito.py` para analisar outros cenários.
 
 ### Testando um Grafo Sem Solução
 
 Para verificar como o programa se comporta quando não há um Circuito Hamiltoniano, você pode substituir a variável `grafo` no final do arquivo por um grafo que não possui solução.
 
-1.  Abra o arquivo `hamiltonian_solver.py`.
+1.  Abra o arquivo `circuito.py`.
 2.  No bloco `if __name__ == "__main__":`, substitua a definição do `grafo` por:
     ```python
     grafo_sem_solucao = [
