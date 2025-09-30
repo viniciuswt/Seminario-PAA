@@ -23,6 +23,7 @@ Este projeto foi desenvolvido para a disciplina de **Projeto e Análise de Algor
 - [Como Utilizar](#️-como-utilizar)
 - [Como Testar](#-como-testar)
 - [O Algoritmo: Backtracking](#-o-algoritmo-backtracking)
+- [Apresentação em Vídeo](#-apresentação-em-vídeo)
 - [Equipe](#-equipe)
 
 ---
@@ -132,6 +133,15 @@ A estratégia de Backtracking usada neste projeto pode ser resumida em três pas
 Este processo garante que todo o espaço de busca de soluções seja explorado de forma sistemática.
 
 ---
+
+## 🎥 Apresentação em Vídeo
+
+A apresentação completa do projeto, explicando a teoria do Circuito Hamiltoniano e demonstrando a execução do código, está disponível em nosso canal no YouTube.
+
+[![Assista a Apresentação no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](LINK_PARA_SEU_VIDEO_AQUI)
+
+---
+
 
 ## 👥 Equipe
 
