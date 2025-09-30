@@ -138,7 +138,7 @@ Este processo garante que todo o espaço de busca de soluções seja explorado d
 
 A apresentação completa do projeto, explicando a teoria do Circuito Hamiltoniano e demonstrando a execução do código, está disponível em nosso canal no YouTube.
 
-[![Assista a Apresentação no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](LINK_PARA_SEU_VIDEO_AQUI)
+[![Assista a Apresentação no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/G3DA4ZuuXe0)
 
 ---
 
